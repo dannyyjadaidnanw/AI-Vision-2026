@@ -2,7 +2,7 @@
 ## Practical 1
 ### Student Information
 z
-Nama: adriana
+Nama: danny
 Matric number: BKV0525KA006 
 PRograme:DKA  
 Course Expectation: learning AI

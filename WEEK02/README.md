@@ -41,6 +41,8 @@ print(f"Semester        : {type(semester)}")
 print(f"Robot Pilihan   : {type(robot_pilihan)}")
 print(f"Tahun Pengajian : {type(tahun_pengajian)}")
 print(f"Minat dalam AI  : {type(minat_ai)}")
+
+
 <img width="385" height="403" alt="image" src="https://github.com/user-attachments/assets/a2d252be-3f1c-4829-9b55-1a8977a9abf9" />
 
 

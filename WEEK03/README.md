@@ -10,6 +10,8 @@ Rumusan
 
 Hari ini saya belajar tentang etika penggunaan AI. Apa yang paling saya faham, AI ni sebenarnya sekadar pembantu dan bukannya pengganti kita. Tapi saya masih tertanya-tanya macam mana AI boleh jadi sebijak ini dan bagaimana sistem di belakangnya berfungsi. Untuk bagi lebih faham, saya bercadang nak rajin membaca dan mengkaji fungsi dalaman AI selepas ini.
 
+HTML FILE LINK:
+
 [neon-pong.html](https://github.com/user-attachments/files/30290786/neon-pong.html)
 <!DOCTYPE html>
 <html lang="en">
